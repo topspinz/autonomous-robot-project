@@ -7,6 +7,8 @@ Obstacle Avoidnce- With the use of sonar sensors, infared sensors, and proximety
 A rough video of The Edge Detection Robot I apologize shakiness
 https://www.youtube.com/watch?v=Cj2qpK3vKm4
 
+Firefighting robot traverses through maze wont leave maze until 3 candles are extinguished.
+https://www.youtube.com/watch?v=TMb_vCUQyN0
 
 ![](http://i.imgur.com/zR76HF4.jpg?1)
 
